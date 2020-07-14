@@ -18,4 +18,7 @@
 2.    ++    --    -   ~    ！ delete   new    typeof    void    
 3. ​    *    /    %
 
-4. ![1594710555670](C:\Users\胡佳旭\AppData\Roaming\Typora\typora-user-images\1594710555670.png)
+4. ![](C:\Users\胡佳旭\AppData\Roaming\Typora\typora-user-images\1594710555670.png
+
+![](C:\Users\胡佳旭\AppData\Roaming\Typora\typora-user-images\1594710555670.png)
+
